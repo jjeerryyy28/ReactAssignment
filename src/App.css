@@ -1,5 +1,17 @@
-.App {
+.center {
   text-align: center;
+}
+
+
+.paragraph-container {
+  text-align: left;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.paragraph-container p {
+  margin-bottom: 16px;
 }
 
 .App-logo {
