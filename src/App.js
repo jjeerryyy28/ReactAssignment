@@ -36,5 +36,4 @@ function App() {
     paragraphElement
   );
 }
-
 export default App;
