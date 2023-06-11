@@ -6,9 +6,9 @@ import User from './Component/JSON-SERVER/User';
 function App(props) {
   return (
     <div className="App">
-      {/* <Users/> */}
+      <Users/>
       {/* <Data /> */}
-      <User />
+      {/* <User /> */}
 
     </div>
   );
